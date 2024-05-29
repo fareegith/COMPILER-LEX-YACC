@@ -1,0 +1,7 @@
+class Car {
+    int x;
+        while(x>0){
+        print("A");
+        x--;
+    }
+}
